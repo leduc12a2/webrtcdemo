@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958842603493",
+    "project_id": "galo-2dc95",
+    "storage_bucket": "galo-2dc95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958842603493:android:9cb1ae5253d13acfd9910c",
+        "android_client_info": {
+          "package_name": "com.galo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958842603493-ok6j94rtu5uorueoi955m28ousf7goao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr2_Hh96aUrJEN-4BWbHGNEmf9XS4Y5WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958842603493-ok6j94rtu5uorueoi955m28ousf7goao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
